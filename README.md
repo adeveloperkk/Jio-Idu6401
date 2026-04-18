@@ -179,6 +179,7 @@ sysupgrade -n /tmp/openwrt*.bin
 
 ---
 
+##Attach mtd6 partition if storage needed
 ## ⚠️ Important Notes
 
 * Device uses **dual boot (mtd5 + mtd6)**
