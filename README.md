@@ -96,7 +96,10 @@ saveenv
 
 ```id="z4n2bs"
 tftpboot 0x46000000 openwrt-*-initramfs-kernel.bin
+fdt addr $(fdtcontroladdr)
+fdt rm /signature
 bootm
+
 ```
 
 👉 Use exact firmware filename
