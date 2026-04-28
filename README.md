@@ -55,10 +55,8 @@ This guide walks you through:
 
 ### Credentials:
 
-* Username: `root` / `admin`
-* Password: Last 8 digits of serial
-
-Or retrieve using:
+* Username: Last 8 digits of serial
+* Password: < retrieve using below >
 
 ```id="7k1xmd"
 /usr/bin/mfg_data get bootpass
