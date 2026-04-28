@@ -162,6 +162,7 @@ setenv bootcmd 'ubi read 46000000 kernel;fdt addr $(fdtcontroladdr);fdt rm /sign
 setenv dual_boot 0
 setenv boot_image_slot 0
 setenv upgrade_image_slot 0
+setenv ipaddr
 saveenv
 reset
 ```
