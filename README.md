@@ -49,7 +49,7 @@ This guide walks you through:
 * OpenWRT firmware files
 
 ---
-[![Watch this video](https://img.youtube.com/vi/_OO6e6x8qRI/1.jpg)](https://www.youtube.com/watch?v=_OO6e6x8qRI)
+[![Watch this video](https://img.youtube.com/vi/_OO6e6x8qRI/0.jpg)](https://www.youtube.com/watch?v=_OO6e6x8qRI)
 <br> Step by step guide in video
 ## 🔐 Step 1: Extract UBoot Pass
 
