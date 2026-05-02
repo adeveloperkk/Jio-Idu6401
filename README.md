@@ -50,8 +50,9 @@ This guide walks you through:
 
 ---
 
-[![Watch the video](https://img.youtube.com/vi/_OO6e6x8qRI/maxresdefault.jpg)](https://www.youtube.com/watch?v=_OO6e6x8qRI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/myhIkdB110Q)](https://www.youtube.com/watch?v=myhIkdB110Q)
 
+<br> Step by step guide in
 ## 🔐 Step 1: Extract UBoot Pass
 
 ### Credentials:
