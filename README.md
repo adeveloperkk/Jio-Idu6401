@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Status-Tested-success?style=for-the-badge">
 </p>
 
+
+
 ---
 
 ## ⚠️ Disclaimer
@@ -48,10 +50,9 @@ This guide walks you through:
 
 ---
 
-## 🔐 Step 1: Login to U-Boot
+<a href="https://www.youtube.com/@developerkk" target="_blank"> <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Watch OpenWRT Flash Guide Video" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" /> </a> <p align="center"><b>▶️ Click the thumbnail to watch the full step-by-step guide</b></p>
 
-* Connect via UART (115200 baud)
-* Use terminal (PuTTY / Minicom)
+## 🔐 Step 1: Extract UBoot Pass
 
 ### Credentials:
 
@@ -64,16 +65,9 @@ This guide walks you through:
 
 ---
 
-## 🌐 Step 2: Setup TFTP Server
-
-* Install **Tftpd64**
-* Place firmware files in TFTP folder
-* Select correct directory in TFTP
-
----
-
-## 🌍 Step 3: Configure Network
-
+## 🌍 Step 2: Login to U-Boot and Configure Network
+* Connect via UART (115200 baud)
+* Use terminal (PuTTY / Minicom)
 ### In U-Boot:
 
 ```id="2px9vn"
@@ -89,6 +83,14 @@ saveenv
 * DNS1: `192.168.1.1`
 * DNS2: `8.8.8.8`
 * Gateway: *(leave empty)*
+
+---
+
+## 🌐 Step 3: Setup TFTP Server
+
+* Install **Tftpd64**
+* Place firmware files in TFTP folder
+* Select correct directory in TFTP
 
 ---
 
