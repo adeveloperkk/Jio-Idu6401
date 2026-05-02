@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/myhIkdB110Q/.01.jpg)](https://www.youtube.com/watch?v=myhIkdB110Q)
+[![Watch this video](https://img.youtube.com/vi/myhIkdB110Q/0.jpg)](https://www.youtube.com/watch?v=myhIkdB110Q)
 
 # 🔧 OpenWRT Flash Guide (JIDU 6401 / Filogic)
 
