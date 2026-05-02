@@ -50,6 +50,8 @@ This guide walks you through:
 
 ---
 [![Watch this video](https://img.youtube.com/vi/_OO6e6x8qRI/0.jpg)](https://www.youtube.com/watch?v=_OO6e6x8qRI)
+👉 https://youtu.be/_OO6e6x8qRI
+
 <br> Step by step guide in video
 ## 🔐 Step 1: Extract UBoot Pass
 
