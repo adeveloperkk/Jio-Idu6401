@@ -50,7 +50,7 @@ This guide walks you through:
 
 ---
 
-<a href="(https://www.youtube.com/watch?v=myhIkdB110Q" target="_blank"> <img src="https://img.youtube.com/vi/_OO6e6x8qRI/maxresdefault.jpg" alt="OpenWRT Flash Guide Video" width="100%" style="border-radius:12px;"> </a> <p align="center"><b>▶️ Click to watch full step-by-step guide</b></p>
+<a href="https://www.youtube.com/watch?v=myhIkdB110Q" target="_blank"> <img src="https://img.youtube.com/vi/_OO6e6x8qRI/maxresdefault.jpg" alt="OpenWRT Flash Guide Video" width="100%" style="border-radius:12px;"> </a> <p align="center"><b>▶️ Click to watch full step-by-step guide</b></p>
 
 ## 🔐 Step 1: Extract UBoot Pass
 
