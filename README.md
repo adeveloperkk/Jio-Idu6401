@@ -1,3 +1,5 @@
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/myhIkdB110Q)](https://www.youtube.com/watch?v=myhIkdB110Q)
+
 # 🔧 OpenWRT Flash Guide (JIDU 6401 / Filogic)
 
 <p align="center">
@@ -49,8 +51,6 @@ This guide walks you through:
 * OpenWRT firmware files
 
 ---
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/myhIkdB110Q)](https://www.youtube.com/watch?v=myhIkdB110Q)
 
 <br> Step by step guide in
 ## 🔐 Step 1: Extract UBoot Pass
